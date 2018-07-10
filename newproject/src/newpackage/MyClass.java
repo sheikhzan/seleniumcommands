@@ -10,6 +10,7 @@ import org.openqa.selenium.support.ui.Select;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
+//addition
 public class MyClass {
 	public static void main(String args[]) {
 System.setProperty("webdriver.chrome.driver","F:\\Personal\\Selenium_essentials\\chrome\\chromedriver_win32\\chromedriver.exe");
